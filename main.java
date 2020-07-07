@@ -25,7 +25,7 @@ public class main {
 			if(size[i] <= menor)
 			{
 				menor = size[i] ;
-				System.out.println(menor);
+				
 			}
 		}
 				
